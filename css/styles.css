@@ -28,15 +28,18 @@
     text-align: center;
     color:wheat;
   }
+  #tude{
+      opacity: 0.87;
+  }
   .serve{
     position: absolute;
     text-align: center;
-    color:white;
+    color:wheat;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
      
   }
   #second{
-      opacity: 0.7;
+      opacity: 0.98;
   }
