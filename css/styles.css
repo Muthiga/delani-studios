@@ -87,3 +87,139 @@ textarea[type=text] {
   position:absolute;
   padding-left: 25%;
 }
+#port1{
+  margin-bottom: 4%;
+}
+.img1{
+  background-image: url("../images/work/work1.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  height:150px;
+  margin-bottom: 10px;
+}
+.img2{
+  background-image: url("../images/work/work2.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  height:150px;
+  margin-bottom: 10px;
+}
+.img3{
+  background-image: url("../images/work/work3.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  height:150px;
+  margin-bottom: 10px;
+}
+.img4{
+  background-image: url("../images/work/work4.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  height:150px;
+  margin-bottom: 10px;
+}
+.img5{
+  background-image: url("../images/work/work5.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  height:150px;
+  margin-bottom: 10px;
+}
+.img6{
+  background-image: url("../images/work/work6.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  height:150px;
+  margin-bottom: 10px;
+}
+.img7{
+  background-image: url("../images/work/work7.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  height:150px;
+  margin-bottom: 10px;
+}
+.img8{
+  background-image: url("../images/work/work8.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  height:150px;
+  margin-bottom: 10px;
+}
+#icons{
+  text-align:center;
+}
+#h3{
+  margin-bottom: 30px;
+}
+#des1,#des2,#des3{
+  display:none;
+}
+#portfolio{
+  width:80%; 
+  margin-left:10%;
+  margin-top: 4%; 
+}
+.word1, .word2, .word3, .word4 , .word5 ,.word6, .word7 ,.word8{
+  text-align: center;
+  font-weight: 100%;
+  color:black;
+  padding-top:55px;
+}
+#port1{
+  margin-bottom: 4%;
+}
+.container{
+  color: black;
+}
+.del{
+  text-align: center;
+}
+#contact{
+  margin-top: 4%;
+  margin-bottom: 3%;
+  padding-top:3%;
+  padding-left:20%;
+  padding-right:20%;
+  background-image: url("../images/c_image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:550px;
+  color: white;
+}
+.inputstl {
+  padding: 9px;
+  border-radius: 0%;
+  border-left: solid 1px white;
+  border-right: solid 1px white;
+  border-top: solid 1px white;
+  border-bottom: 1px solid grey;
+  outline: 0;  
+  margin-top:2%;
+}
+#message{
+  color: white;  
+}
+#Name{
+  margin-top:5%;
+  margin-right: 40px;
+  border-radius: 0%;
+  border-left:1px solid white;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  border-right: 1px solid grey;
+  color: white;
+}
+#Email{
+  margin-top:5%;
+  border-radius: 0%;
+  border-left:1px solid white;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  border-right: 1px solid grey;
+  color: white;
+}
+form#form ::placeholder {
+  color:white;
+  opacity: 1;
+}
